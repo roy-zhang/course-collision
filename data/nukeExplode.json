@@ -1,0 +1,11 @@
+{
+    "nukeExplode": {
+        "sx": 0,
+        "sy": 0,
+        "cols": 3,
+        "rows": 4,
+        "tilew": 100,
+        "tileh": 100,
+        "frames": 12
+    }
+}
